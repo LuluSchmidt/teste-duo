@@ -10,6 +10,7 @@ Aplicação criada para treinamento técnico na agência Duo Studio Interativo.
    * [Sobre o projeto](#sobre-o-projeto)
    * [Construído com](#construído-com)
    * [Instalação](#instalação)
+   * [Layout] (#layout)
    * [Autora](#autora)
 <!--te-->
 
@@ -28,6 +29,10 @@ sh
 cd duo
 
 3. Rode a aplicação através da extensão Live Server do VSCode ou similares
+
+### Layout
+
+<img src="https://user-images.githubusercontent.com/94460535/150658583-d5a2bbdf-8c28-4388-8187-aefbfa8b56c0.png">
 
 ## Autora
 
