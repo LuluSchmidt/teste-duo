@@ -10,7 +10,7 @@ Aplicação criada para treinamento técnico na agência Duo Studio Interativo.
    * [Sobre o projeto](#sobre-o-projeto)
    * [Construído com](#construído-com)
    * [Instalação](#instalação)
-   * [Layout] (#layout)
+   * [Layout](#layout)
    * [Autora](#autora)
 <!--te-->
 
