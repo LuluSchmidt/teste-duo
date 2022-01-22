@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Regular'; src: url('../../assets/fonts/Montserrat-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bold'; src: url('../../assets/fonts/Montserrat-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: #d3d3d3
+}
+
+.perguntas {
+    font-family: 'Bold'; 
+    font-size: 18px; 
+    color: #090268;
+    padding: 15px 5 10px 40px;
+    line-height: 70px;
+    width: 100%;
+    cursor: pointer;
+}
